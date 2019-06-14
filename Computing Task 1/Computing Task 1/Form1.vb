@@ -36,16 +36,16 @@
         topPart = monthlyRate * ((1 + monthlyRate) ^ numberOfPayments)
         bottomPart = ((1 + monthlyRate) ^ numberOfPayments) - 1
         monthlyPayments = borrow * (topPart / bottomPart) ' The final part of the formula is to multiply it by the borrowed ammount
-        TextBox4.Text = FormatNumber(monthlyPayments, 2) ' Now we display the monthly payments in the 4th text box with 2 decimal points
+        TextBox4.Text = FormatCurrency(monthlyPayments) ' Now we display the monthly payments in the 4th text box with 2 decimal points
 
         'Now we need to calculate the total ammount of payments, after the interest is charged
         totalPayments = monthlyPayments * numberOfPayments ' Now we're multiplying the monthly payments with the total number of payments
-        TextBox5.Text = FormatNumber(totalPayments, 2) ' Displaying the total payments with 2 decimal points
+        TextBox5.Text = FormatCurrency(totalPayments) ' Displaying the total payments with 2 decimal points
         ' This will show the user the total ammount that he is going to pay
         ' We will also show to user the ammount of interest he's going to pay in total, separate to the total payments
         Dim paidInterest As Double
         paidInterest = totalPayments - borrow ' This is done by calculating the difference between the borrowed ammount and actual paid ammount
-        TextBox6.Text = FormatNumber(paidInterest, 2) ' Displaying the paid interest with 2 decimal points
+        TextBox6.Text = FormatCurrency(paidInterest) ' Displaying the paid interest with 2 decimal points
 
     End Sub
 
