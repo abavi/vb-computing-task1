@@ -1,0 +1,12 @@
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\bin\Debug\Computing Task 1.exe.config
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\bin\Debug\Computing Task 1.exe
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\bin\Debug\Computing Task 1.pdb
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\bin\Debug\Computing Task 1.xml
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.vbprojAssemblyReference.cache
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing_Task_1.Form1.resources
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing_Task_1.Resources.resources
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.vbproj.GenerateResource.cache
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.vbproj.CoreCompileInputs.cache
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.exe
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.xml
+c:\users\temp.ed\source\repos\Computing Task 1\Computing Task 1\obj\Debug\Computing Task 1.pdb
